@@ -1,0 +1,4 @@
+
+usermain@usermain-ESPRIMO-P556-2:~/Fortech/IdeaProjects/demoMavenBasic$ psql -h localhost -U user
+user=# \c postgres
+You are now connected to database "postgres" as user "user".
